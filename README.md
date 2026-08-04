@@ -1,8 +1,5 @@
 
 <center><div style="transform:rotate(345deg);overflow:hidden">
-h2 {
-    color: ;
-}
 /* define font-face */
 @font-face {
     font-family: 'Sweetie Pie';
