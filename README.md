@@ -1,5 +1,15 @@
 
-<center><div style="transform:rotate(345deg);overflow:hidden"></* call font-face */
+<center><div style="transform:rotate(345deg);overflow:hidden">
+	h1 {
+    color: ;
+}
+/* define font-face */
+@font-face {
+    font-family: 'Sweetie Pie';
+    src: url('https://cdn.jsdelivr.net/gh/BerriiBerri/Sweetie-Pie-Font/Sweetie Pie.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}</* call font-face */
 @import url('https://cdn.jsdelivr.net/gh/BerriiBerri/Sweetie-Pie-Font/Sweetie Pie.ttf');');
 /* apply font */
 h1 {
