@@ -3,7 +3,7 @@
 @import url('https://raw.githubusercontent.com/BerriiBerri/Sweetie-Pie-Font/Sweetie Pie.ttf');
 /* apply font */
 h1 {
-	font-family: 'Sweetie Pie', monospace;
+	font-family: 'Sweetie Pie';
 	font-weight: normal;
 	font-style: normal;
 }; background:linear-gradient(90deg,#c2173c, #c2294a, #c43d5a, #c44b65); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"text-shadow:0px 0px 0px transparent">'''''Berri's<br>Userpage'''''</div></center>
