@@ -1,6 +1,6 @@
 
 <center><div style="transform:rotate(345deg);overflow:hidden"></* call font-face */
-@import url('https://raw.githubusercontent.com/BerriiBerri/Sweetie-Pie-Font/Sweetie Pie.ttf/font.css');
+@import url('https://raw.githubusercontent.com/BerriiBerri/Sweetie-Pie-Font/Sweetie Pie.ttf');
 /* apply font */
 h1 {
 	font-family: 'Sweetie Pie', monospace;
