@@ -1,5 +1,5 @@
 
-<center><div style="transform:rotate(345deg);overflow:hidden"><div style="font-size:64px"><span style="font-family:Sweetie Pie; background:linear-gradient(90deg,#c2173c, #c2294a, #c43d5a, #c44b65); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"text-shadow:0px 0px 0px transparent">'''''Berri's<br>Userpage'''''</div></center>
+<center><div style="transform:rotate(345deg);overflow:hidden"><div style="font-size:64px"><span style="font-family:https://raw.githubusercontent.com/BerriiBerri/Sweetie-Pie-Font/Sweetie Pie.ttf; background:linear-gradient(90deg,#c2173c, #c2294a, #c43d5a, #c44b65); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"text-shadow:0px 0px 0px transparent">'''''Berri's<br>Userpage'''''</div></center>
 
 <div style="width: 485px; position: relative; margin: 30px auto; text-align:center;">
 <div style="width: 320px; margin: auto; padding: 15px 0; background-color: #ad1c47; border: none black; border-radius: 720px; box-shadow: 0 0 40px rgb(150,150,150);">
