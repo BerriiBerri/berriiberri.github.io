@@ -3,11 +3,11 @@
 /* define font-face */
 @font-face {
     font-family: 'Sweetie Pie';
-    src: url('../https://cdn.jsdelivr.net/gh/BerriiBerri/Sweetie-Pie-Font/Sweetie-Pie.ttf') format('ttf');
+    src: url('../ ../https://cdn.jsdelivr.net/gh/BerriiBerri/Sweetie-Pie-Font/Sweetie-Pie.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }</* call font-face */
-@import url('../https://cdn.jsdelivr.net/gh/BerriiBerri/Sweetie-Pie-Font/Sweetie Pie.ttf');
+@import url('../ ../https://cdn.jsdelivr.net/gh/BerriiBerri/Sweetie-Pie-Font/Sweetie Pie.ttf');
 /* apply font */
 h1 {
 	font-family: 'Sweetie Pie';
