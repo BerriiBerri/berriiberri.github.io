@@ -3,11 +3,11 @@
 /* define font-face */
 @font-face {
     font-family: 'Sweetie Pie';
-    src:url('rawcdn.githack.com/BerriiBerri/font/Sweetie-Pie.ttf') format('ttf');
+    src:url('../BerriiBerri/Sweetie-Pie.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }</* call font-face */
-@import url('rawcdn.githack.com/BerriiBerri/font/Sweetie-Pie.ttf');
+@import url('../BerriiBerri/Sweetie-Pie.ttf');
 /* apply font */
 h1 {
 	font-family: 'Sweetie Pie';
