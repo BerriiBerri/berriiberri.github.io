@@ -2,15 +2,15 @@
 <center><div style="transform:rotate(345deg);overflow:hidden">
 /* define font-face */
 @font-face {
-    font-family: 'Sweetie Pie';
-    src:url('../BerriiBerri/Sweetie-Pie.ttf') format('ttf');
+    font-family: Sweetie Pie;
+    src:url(../BerriiBerri/Sweetie-Pie.ttf) format(ttf);
     font-weight: normal;
     font-style: normal;
 }</* call font-face */
-@import url('../BerriiBerri/Sweetie-Pie.ttf');
+@import url(../BerriiBerri/Sweetie-Pie.ttf);
 /* apply font */
 h1 {
-	font-family: 'Sweetie Pie';
+	font-family: Sweetie Pie;
 	font-weight: normal;
 	font-style: normal;
 }; background:linear-gradient(90deg,#c2173c, #c2294a, #c43d5a, #c44b65); -webkit-background-clip:text !important; -webkit-text-fill-color:transparent;"text-shadow:0px 0px 0px transparent">'''''Berri's<br>Userpage'''''</div></center>
