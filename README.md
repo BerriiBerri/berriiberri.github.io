@@ -3,7 +3,7 @@
 /* define font-face */
 @font-face {
     font-family: 'Sweetie Pie';
-    src: url('../font/Sweetie-Pie.ttf') format('ttf');
+    src:url('../font/Sweetie-Pie.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }</* call font-face */
