@@ -3,7 +3,7 @@
 /* define font-face */
 @font-face {
     font-family: 'Sweetie Pie';
-    src:url('../BerriiBerri/Sweetie-Pie.woff') format(woff);
+    src:url('../BerriiBerri/Sweetie-Pie.woff') format: (woff);
     font-weight: normal;
     font-style: normal;
 }</* call font-face */
