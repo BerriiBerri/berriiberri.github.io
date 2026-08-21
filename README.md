@@ -2,7 +2,7 @@
 <center><div style="transform:rotate(345deg);overflow:hidden">
 /* define font-face */
 @font-face {
-    font-family: Sweetie Pie;
+    font-family: 'Sweetie Pie';
     src:url(../BerriiBerri/Sweetie-Pie.woff) format(woff);
     font-weight: normal;
     font-style: normal;
