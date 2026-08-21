@@ -3,11 +3,11 @@
 /* define font-face */
 @font-face {
     font-family: 'Sweetie Pie';
-    src:url('../BerriiBerri/Sweetie-Pie.woff') format: (woff);
+    src: url("../BerriiBerri/Sweetie-Pie.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 }</* call font-face */
-@import url('../BerriiBerri/Sweetie-Pie.woff');
+@import url("../BerriiBerri/Sweetie-Pie.ttf");
 /* apply font */
 h1 {
 	font-family: Sweetie Pie;
